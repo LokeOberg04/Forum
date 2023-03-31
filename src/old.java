@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.sql.*;
 import java.util.Scanner;
 
-public class DatabaseExample {
+public class old {
     public static void main(String[] args) {
         Connection conn = null;
         String user = "te20";
